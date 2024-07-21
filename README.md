@@ -1,2 +1,2 @@
-# Capstone--HTML-CSS
-I used html and a CSS to create a a resume
+# Resume Capstone Project--HTML-CSS
+I used HTML and CSS to create a resume.
